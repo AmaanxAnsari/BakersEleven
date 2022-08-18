@@ -1,0 +1,63 @@
+body {
+  background-image: url('../img/Background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size:cover;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand img{
+    width:190px;
+    height:160px;
+    margin: 8% 0% 0% 20%;
+}
+.navbar .navbar-nav {
+
+    margin-right: 280px;
+}
+.navbar .navbar-nav .nav-link{
+    color: #F4D5B2;
+    margin: 0% 0% 0% 0% ;
+    font-size: 20px;
+
+}
+.heading{
+    margin-left: 150px;
+}
+.heading h1{
+    color: #EFB317;
+    font-size: 85px;
+    font-weight:350 ;
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+}
+
+.heading h2{
+    color: #EFB317;
+    font-size: 85px;
+    font-weight:350 ;
+    margin: -4% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+}
+.heading p{
+    color:#F4D5B2;
+    font-size: 27px;
+
+}
+.btn{
+    color: #edd9c2 !important;
+    font-weight:350 !important ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    padding:  1% 4% 1% 4% !important;
+    border-radius: 25px !important;
+    background-color: #EFB317 !important;
+    font-size: 23px !important;
+
+}
+
+.banner img{
+    width: 50%;
+    border-radius: 50%;
+    border: #EFB317 solid 10px;
+    margin-left: 100px;
+}
