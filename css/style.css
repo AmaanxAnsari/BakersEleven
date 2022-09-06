@@ -1,20 +1,20 @@
-.background-image {
+/* .background-image {
     background-image: url('../img/Background3.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    background-position: fixed;
-}
+    
+} */
 
 .navbar-brand img {
-    width: 180px;
-    height: 150px;
+    width: 170px;
+    height: 140px;
     margin: 8% 0% 0% 20%;
 }
 
 .navbar .navbar-nav {
 
-    margin-right: 260px;
+    margin-right: 200px;
 }
 
 .navbar .navbar-nav .nav-link {
@@ -38,7 +38,10 @@
     border-radius: 25px;
     color: #edd9c2 !important;
 }
+.bi-brightness-high-fill{
+    color: #EFB317 !important;
 
+}
 
 .heading {
     margin-left: 180px;
