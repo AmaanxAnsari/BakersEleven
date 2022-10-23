@@ -1,9 +1,8 @@
-/* .background-image {
-    background-image: url('../img/Background3.png');
+/* .backgroundimage {
+    background-image: url('../img/Background3.png') ;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    
 } */
 
 .navbar-brand img {
@@ -38,7 +37,7 @@
     border-radius: 25px;
     color: #edd9c2 !important;
 }
-.bi-brightness-high-fill{
+.bi-lightbulb-fill{
     color: #EFB317 !important;
 
 }
@@ -100,6 +99,10 @@
     margin-top: -25px;
 }
 
-@media only screen {min
-    
+.dark{
+    position:relative;
+    top: 80px;
+    right: 75px;
+    float: right;
+    font-size: 40px;
 }
