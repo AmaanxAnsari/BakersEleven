@@ -1,3 +1,12 @@
+const loadcoupon = () => {
+  document.getElementById("couponimg").style.display = "block";
+  document.getElementById("backgroundimage").style.opacity = "0.5";
+};
+const closecoupon = () => {
+  document.getElementById("couponimg").style.display = "none";
+  document.getElementById("backgroundimage").style.opacity = "1";
+};
+
 const toggle = document.getElementById("toggleDark");
 const body = document.querySelector("body");
 const text1 = document.getElementById("tagline");
@@ -41,5 +50,7 @@ window.onload = function () {
   text3.style.color = "white";
   text4.style.color = "white";
   text5.style.color = "white";
+
   darkmode();
+  loadcoupon();
 };
