@@ -1,0 +1,32 @@
+// {
+//       "flavor_id": 1,
+//       "flavor_name": "Vanilla"
+//     },
+//     {
+//       "flavor_id": 2,
+//       "flavor_name": "Chocolate"
+//     },
+//     {
+//       "flavor_id": 3,
+//       "flavor_name": "Pineapple"
+//     },
+//     {
+//       "flavor_id": 4,
+//       "flavor_name": "Strawberry"
+//     },
+//     {
+//       "flavor_id": 5,
+//       "flavor_name": "Orange"
+//     },
+//     {
+//       "flavor_id": 6,
+//       "flavor_name": "Blueberry"
+//     },
+//     {
+//       "flavor_id": 7,
+//       "flavor_name": "Mango"
+//     },
+//     {
+//       "flavor_id": 8,
+//       "flavor_name": "Vanilla"
+//     }

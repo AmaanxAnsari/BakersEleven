@@ -1,0 +1,40 @@
+{
+  "flavors": [
+    {
+      "flavor_id": 1,
+      "flavor_name": "vanilla"
+    },
+    {
+      "flavor_id": 2,
+      "flavor_name": "chocolate"
+    },
+    {
+      "flavor_id": 3,
+      "flavor_name": "butterscotch"
+    },
+    {
+      "flavor_id": 4,
+      "flavor_name": "pineapple"
+    },
+    {
+      "flavor_id": 5,
+      "flavor_name": "strawberry"
+    },
+    {
+      "flavor_id": 6,
+      "flavor_name": "blueberry"
+    },
+    {
+      "flavor_id": 7,
+      "flavor_name": "mango"
+    },
+    {
+      "flavor_id": 8,
+      "flavor_name": "orange"
+    },
+    {
+      "flavor_id": 9,
+      "flavor_name": "fusion"
+    }
+  ]
+}
