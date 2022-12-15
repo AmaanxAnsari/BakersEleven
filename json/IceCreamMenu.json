@@ -1,0 +1,32 @@
+{
+  "ice": [
+    {
+      "id": 1,
+      "company": "Kwality Walls",
+      "icecream": [
+        {
+          "icecream_id": 1,
+          "icecream_title": "Classic Chocobar",
+          "Description": "A classic Chocolate Coated vanilla Ice-Cream",
+          "price": [10, 20],
+          "rate": 4.5,
+          "icecream_img": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Amul",
+      "icecream": [
+        {
+          "icecream_id": 1,
+          "icecream_title": "Frostick",
+          "Description": "A classic Chocolate Cashew Coated vanilla Ice-Cream",
+          "price": [35],
+          "rate": 4.5,
+          "icecream_img": ""
+        }
+      ]
+    }
+  ]
+}
