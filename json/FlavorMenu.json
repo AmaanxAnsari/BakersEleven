@@ -35,6 +35,10 @@
     {
       "flavor_id": 9,
       "flavor_name": "fusion"
+    },
+    {
+      "flavor_id": 10,
+      "flavor_name": ""
     }
   ]
 }
