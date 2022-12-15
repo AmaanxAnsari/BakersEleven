@@ -1,0 +1,246 @@
+{
+  "cakes": [
+    {
+      "flavor_id": 1,
+      "flavor_name": "vanilla",
+      "vanilla": [
+        {
+          "id": 1,
+          "cake_title": "Vanilla Cake",
+          "Description": "A classic vanilla cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 15,
+          "cake_title": "Vanilla Cake",
+          "Description": "A classic vanilla cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 2,
+          "cake_title": "Vanilla cake",
+          "Description": "A classic vanilla cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 2,
+      "flavor_name": "chocolate",
+      "chocolate": [
+        {
+          "id": 1,
+          "cake_title": "Chocolate Cake",
+          "Description": "A classic chocolate cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 2,
+          "cake_title": "Chocolate Cake",
+          "Description": "A classic chocolate cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 3,
+          "cake_title": "Chocolate cake",
+          "Description": "A classic chocolate cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 3,
+      "flavor_name": "butterscotch",
+      "butterscotch": [
+        {
+          "id": 1,
+          "cake_title": "Butterscotch Cake",
+          "Description": "A classic butterscotch cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 2,
+          "cake_title": "Butterscotch Cake",
+          "Description": "A classic Butterscotch cake",
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 3,
+          "cake_title": "Butterscotch Cake",
+          "Description": "A classic Butterscotch cake",
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 4,
+      "flavor_name": "pineapple",
+      "pineapple": [
+        {
+          "id": 1,
+          "cake_title": "Pineapple Cake",
+          "Description": "A classic pineapple cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 2,
+          "cake_title": "Pineapple Cake",
+          "Description": "A classic Pineapple cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 3,
+          "cake_title": "Pineapple Cake",
+          "Description": "A classic Pineapple cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 5,
+      "flavor_name": "strawberry",
+      "strawberry": [
+        {
+          "id": 1,
+          "cake_title": "strawberry Cake",
+          "Description": "A classic strawberry cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 6,
+      "flavor_name": "blueberry",
+      "blueberry": [
+        {
+          "id": 1,
+          "cake_title": "blueberry Cake",
+          "Description": "A classic blueberry cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 7,
+      "flavor_name": "mango",
+      "mango": [
+        {
+          "id": 1,
+          "cake_title": "mango Cake",
+          "Description": "A classic mango cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 8,
+      "flavor_name": "orange",
+      "orange": [
+        {
+          "id": 1,
+          "cake_title": "orange Cake",
+          "Description": "A classic orange cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    },
+    {
+      "flavor_id": 9,
+      "flavor_name": "sweets",
+      "fusion": [
+        {
+          "id": 1,
+          "cake_title": "Rasmalai Cake",
+          "Description": "A classic Rasmalai cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 2,
+          "cake_title": "Kaju Katli Cake",
+          "Description": "A classic Kaju Katli cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        },
+        {
+          "id": 3,
+          "cake_title": "Gulab Jamun Cake",
+          "Description": "A classic Gulab Jamun cake",
+          "cake_type": ["non-vegeretian", "vegeterian"],
+          "weight": ["half Kg", "One Kg"],
+          "price": [300, 600],
+          "rate": 4,
+          "cake_img": ""
+        }
+      ]
+    }
+  ]
+}
