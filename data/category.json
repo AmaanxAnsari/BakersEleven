@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "cat_id": 1,
+      "cat_type": "Birthday Cake",
+      "content": "Birthdays are just an occasion to eat more cake",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 2,
+      "cat_type": "Anniversary Cake",
+      "content": "A cake for your Love",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 3,
+      "cat_type": "Wedding Cake",
+      "content": "A life full of Celebration.",
+      "cat_image": ""
+    },
+
+    {
+      "cat_id": 4,
+      "cat_type": "Premium Cake",
+      "content": "A life full of Celebration.",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 5,
+      "cat_type": "Cupcake Cake",
+      "content": "Things Go Better With Cupcakes.",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 6,
+      "cat_type": "Pastry Cake",
+      "content": "Start your day with a touch of sweetness.",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 7,
+      "cat_type": "Drinks",
+      "content": "Good sip for good moments.",
+      "cat_image": ""
+    },
+    {
+      "cat_id": 8,
+      "cat_type": "Ice Cream",
+      "content": "Its never too late for ice cream.",
+      "cat_image": ""
+    }
+  ]
+}

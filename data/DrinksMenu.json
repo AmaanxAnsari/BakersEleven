@@ -1,0 +1,269 @@
+{
+  "drink": [
+    {
+      "id": 0,
+      "CocaCola": [
+        {
+          "drink_id": 0,
+          "drink_title": "Classic Coke",
+          "coke": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 1,
+          "drink_title": "Sprite",
+          "sprite": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 2,
+          "drink_title": "ThumbsUp",
+          "thumbsup": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 3,
+          "drink_title": "Fanta",
+          "fanta": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 4,
+          "drink_title": "Limca",
+          "limca": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 5,
+          "drink_title": "Maaza",
+          "maaza": {
+            "tetra": 10,
+            "sm": 20,
+            "md": 40,
+            "lg": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "PepsiCo": [
+        {
+          "drink_id": 0,
+          "drink_title": "Classic Pepsi",
+          "pepsi": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 1,
+          "drink_title": "7up",
+          "up": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 2,
+          "drink_title": "MountainDew",
+          "dew": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 3,
+          "drink_title": "Mirinda",
+          "miri": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 4,
+          "drink_title": "Nimbooz",
+          "nimbooz": {
+            "can": 40,
+            "sm": 20,
+            "md": 40,
+            "lg": 65,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 5,
+          "drink_title": "Pepsi Black",
+          "black": {
+            "can": 40,
+            "sm": 20,
+            "md": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ParleAgro": [
+        {
+          "drink_id": 0,
+          "drink_title": "Classic Frooti",
+          "frooti": {
+            "tetra": 10,
+            "sm": 20,
+            "md": 40,
+            "lg": 70,
+            "xl": 100
+          }
+        },
+        {
+          "drink_id": 1,
+          "drink_title": "Classic Appy",
+          "appy": {
+            "tetra": 10
+          }
+        },
+        {
+          "drink_id": 2,
+          "drink_title": "Appy Fizz",
+          "afizz": {
+            "can": 25,
+            "sm": 15,
+            "md": 20,
+            "lg": 35
+          }
+        },
+        {
+          "drink_id": 3,
+          "drink_title": "B Fizz",
+          "bfizz": {
+            "can": 25,
+            "sm": 15,
+            "md": 20,
+            "lg": 35
+          }
+        },
+        {
+          "drink_id": 4,
+          "drink_title": "Smooth Chocolate",
+          "choco": {
+            "tetra": 10
+          }
+        },
+        {
+          "drink_id": 5,
+          "drink_title": "Smooth Caramel",
+          "car": {
+            "tetra": 10
+          }
+        },
+        {
+          "drink_id": 6,
+          "drink_title": "Smooth Coffee",
+          "coffee": {
+            "tetra": 10
+          }
+        },
+        {
+          "drink_id": 7,
+          "drink_title": "Smooth Hazelnut",
+          "nut": {
+            "tetra": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Amul": [
+        {
+          "drink_id": 0,
+          "drink_title": "Rose Lassi",
+          "lassi": {
+            "tetra": 23
+          }
+        },
+        {
+          "drink_id": 1,
+          "drink_title": "Amul Masti",
+          "tak": {
+            "tetra": 14
+          }
+        },
+        {
+          "drink_id": 2,
+          "drink_title": "Rose Milk",
+          "rmilk": {
+            "sm": 22
+          }
+        },
+        {
+          "drink_id": 3,
+          "drink_title": "Badam Milk",
+          "bmilk": {
+            "sm": 22
+          }
+        },
+        {
+          "drink_id": 4,
+          "drink_title": "Kesar Milk",
+          "kmilk": {
+            "sm": 22
+          }
+        },
+        {
+          "drink_id": 5,
+          "drink_title": "Elaichi Milk",
+          "emilk": {
+            "sm": 22
+          }
+        },
+        {
+          "drink_id": 6,
+          "drink_title": "Basundi",
+          "basundi": {
+            "tetra": 30,
+            "lg": 90
+          }
+        }
+      ]
+    }
+  ]
+}
