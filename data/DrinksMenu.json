@@ -2,6 +2,7 @@
   "drink": [
     {
       "id": 0,
+      "cat_id": 6,
       "CocaCola": [
         {
           "drink_id": 0,
@@ -72,6 +73,7 @@
     },
     {
       "id": 1,
+      "cat_id": 6,
       "PepsiCo": [
         {
           "drink_id": 0,
@@ -141,6 +143,7 @@
     },
     {
       "id": 2,
+      "cat_id": 6,
       "ParleAgro": [
         {
           "drink_id": 0,
@@ -212,6 +215,7 @@
     },
     {
       "id": 3,
+      "cat_id": 6,
       "Amul": [
         {
           "drink_id": 0,

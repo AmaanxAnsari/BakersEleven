@@ -2,13 +2,22 @@
   "icecream": [
     {
       "id": 0,
+      "cat_id": 7,
       "company": "Kwality Walls",
       "kwality": [
         {
           "id": 0,
           "title": "Classic Chocobar",
           "Description": "A classic Chocolate Coated vanilla Ice-Cream",
-          "price": [10, 20],
+          "chocobar": { "sm": 10, "md": 20 },
+          "rate": 4.5,
+          "img": ""
+        },
+        {
+          "id": 1,
+          "title": "Classic Vanilla",
+          "Description": "A class vanilla Ice-Cream",
+          "vanilla": { "cup": 10, "bar": 10, "cone": 20, "family": 115 },
           "rate": 4.5,
           "img": ""
         }
@@ -16,6 +25,7 @@
     },
     {
       "id": 1,
+      "cat_id": 7,
       "company": "Amul",
       "amul": [
         {
