@@ -20,6 +20,30 @@
           "vanilla": { "cup": 10, "bar": 10, "cone": 20, "family": 115 },
           "rate": 4.5,
           "img": ""
+        },
+        {
+          "id": 2,
+          "title": "Chocolate",
+          "Description": "A class Chocolate Ice-Cream",
+          "vanilla": { "cup": 35, "bar": 40, "cone": 40, "family": 120 },
+          "rate": 4.5,
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "ButterScotch",
+          "Description": "A class Butterscotch Ice-Cream",
+          "vanilla": { "cup": 35, "bar": 10, "cone": 20, "family": 115 },
+          "rate": 4.5,
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "Classic Vanilla",
+          "Description": "A class vanilla Ice-Cream",
+          "vanilla": { "cup": 10, "bar": 10, "cone": 20, "family": 115 },
+          "rate": 4.5,
+          "img": ""
         }
       ]
     },
