@@ -1,0 +1,226 @@
+db.icecream.insert(
+[
+  {
+    "cat_id": 7,
+    "company": "Kwality Walls",
+    "company_logo": "",
+    "icecream": [
+      {
+        "id": 1,
+        "title": "Classic Chocobar",
+        "flavor": "chocobar",
+        "Description": "A classic Chocolate Coated vanilla Ice-Cream",
+        "size": [
+          {
+            "sm": 10
+          },
+          {
+            "md": 20
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 2,
+        "title": "Classic Vanilla",
+        "flavor": "vanilla",
+        "Description": "A class vanilla Ice-Cream",
+        "size": [
+          {
+            "cup": 10
+          },
+          {
+            "bar": 10
+          },
+          {
+            "cone": 20
+          },
+          {
+            "family": 115
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 3,
+        "title": "Chocolate",
+        "flavor": "chocolate",
+        "Description": "A class Chocolate Ice-Cream",
+        "size": [
+          {
+            "cup": 35
+          },
+          {
+            "bar": 40
+          },
+          {
+            "cone": 40
+          },
+          {
+            "family": 120
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 4,
+        "title": "ButterScotch",
+        "flavor": "butterscotch",
+        "Description": "A class Butterscotch Ice-Cream",
+        "size": [
+          {
+            "cup": 35
+          },
+          {
+            "bar": 10
+          },
+          {
+            "cone": 20
+          },
+          {
+            "family": 115
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 5,
+        "title": "Classic Mango",
+        "flavor": "mango",
+        "Description": "A class Mango Ice-Cream",
+        "size": [
+          {
+            "cup": 10
+          },
+          {
+            "bar": 10
+          },
+          {
+            "cone": 20
+          },
+          {
+            "family": 115
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "cat_id": 7,
+    "company": "Amul",
+    "company_logo": "",
+    "icecream": [
+      {
+        "id": 1,
+        "title": "Classic Chocobar",
+        "flavor": "chocobar",
+        "Description": "A classic Chocolate Coated vanilla Ice-Cream",
+        "size": [
+          {
+            "sm": 15
+          },
+          {
+            "md": 20
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 2,
+        "title": "Classic Vanilla",
+        "flavor": "vanilla",
+        "Description": "A class Vanilla Ice-Cream",
+        "size": [
+          {
+            "cup": 20
+          },
+          {
+            "bar": 30
+          },
+          {
+            "cone": 45
+          },
+          {
+            "family": 225
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 3,
+        "title": "Chocolate",
+        "flavor": "chocolate",
+        "Description": "A class Chocolate Ice-Cream",
+        "size": [
+          {
+            "cup": 20
+          },
+          {
+            "bar": 35
+          },
+          {
+            "cone": 60
+          },
+          {
+            "family": 275
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 4,
+        "title": "ButterScotch",
+        "flavor": "butterscotch",
+        "Description": "A class Butterscotch Ice-Cream",
+        "size": [
+          {
+            "cup": 20
+          },
+          {
+            "bar": 30
+          },
+          {
+            "cone": 35
+          },
+          {
+            "family": 275
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      },
+      {
+        "id": 5,
+        "title": "Classic Mango",
+        "flavor": "mango",
+        "Description": "A class Mango Ice-Cream",
+        "size": [
+          {
+            "cup": 10
+          },
+          {
+            "bar": 10
+          },
+          {
+            "cone": 30
+          },
+          {
+            "family": 115
+          }
+        ],
+        "rate": 4.5,
+        "img": ""
+      }
+    ]
+  }
+]
+)

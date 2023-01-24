@@ -1,0 +1,466 @@
+db.drinks.insert(
+[
+  {
+    "cat_id": 6,
+    "drink_company": "Cocacola",
+    "drink": [
+      {
+        "drink_id": 1,
+        "drink_title": "Classic Coke",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 2,
+        "drink_title": "Sprite",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 3,
+        "drink_title": "ThumbsUp",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 4,
+        "drink_title": "Fanta",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 5,
+        "drink_title": "Limca",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 6,
+        "drink_title": "Maaza",
+        "size": [
+          {
+            "tetra": 10
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 50
+          }
+        ],
+        "img": []
+      }
+    ]
+  },
+  {
+    "cat_id": 6,
+    "drink_company": "Pepsi Co",
+    "drink": [
+      {
+        "drink_id": 1,
+        "drink_title": "Classic Pepsi",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 60
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 2,
+        "drink_title": "7up",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 3,
+        "drink_title": "MountainDew",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 4,
+        "drink_title": "Mirinda",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 5,
+        "drink_title": "Nimbooz",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 65
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 6,
+        "drink_title": "Pepsi Black",
+        "size": [
+          {
+            "can": 40
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          }
+        ],
+        "img": []
+      }
+    ]
+  },
+  {
+    "cat_id": 6,
+    "drink_company": "ParleAgro",
+    "drink": [
+      {
+        "drink_id": 1,
+        "drink_title": "Classic Frooti",
+        "size": [
+          {
+            "tetra": 10
+          },
+          {
+            "sm": 20
+          },
+          {
+            "md": 40
+          },
+          {
+            "lg": 70
+          },
+          {
+            "xl": 100
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 2,
+        "drink_title": "Classic Appy",
+        "size": [
+          {
+            "tetra": 10
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 3,
+        "drink_title": "Appy Fizz",
+        "size": [
+          {
+            "can": 25
+          },
+          {
+            "sm": 15
+          },
+          {
+            "md": 20
+          },
+          {
+            "lg": 35
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 4,
+        "drink_title": "B Fizz",
+        "size": [
+          {
+            "can": 25
+          },
+          {
+            "sm": 15
+          },
+          {
+            "md": 20
+          },
+          {
+            "lg": 35
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 5,
+        "drink_title": "Smooth Chocolate",
+        "size": [
+          {
+            "tetra": 10
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 6,
+        "drink_title": "Smooth Caramel",
+        "size": [
+          {
+            "tetra": 10
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 7,
+        "drink_title": "Smooth Coffee",
+        "size": [
+          {
+            "tetra": 10
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 8,
+        "drink_title": "Smooth Hazelnut",
+        "size": [
+          {
+            "tetra": 10
+          }
+        ],
+        "img": []
+      }
+    ]
+  },
+  {
+    "cat_id": 6,
+    "drink_company": "Amul",
+    "drink": [
+      {
+        "drink_id": 1,
+        "drink_title": "Rose Lassi",
+        "size": [
+          {
+            "tetra": 23
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 2,
+        "drink_title": "Amul Masti",
+        "size": [
+          {
+            "tetra": 14
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 3,
+        "drink_title": "Rose Milk",
+        "size": [
+          {
+            "sm": 22
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 4,
+        "drink_title": "Badam Milk",
+        "size": [
+          {
+            "sm": 22
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 5,
+        "drink_title": "Kesar Milk",
+        "size": [
+          {
+            "sm": 22
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 6,
+        "drink_title": "Elaichi Milk",
+        "size": [
+          {
+            "sm": 22
+          }
+        ],
+        "img": []
+      },
+      {
+        "drink_id": 7,
+        "drink_title": "Basundi",
+        "size": [
+          {
+            "tetra": 30
+          },
+          {
+            "lg": 90
+          }
+        ],
+        "img": []
+      }
+    ]
+  }
+]
+)

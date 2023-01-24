@@ -1,0 +1,466 @@
+db.cakes.insert([
+    {
+        "cat_id": 1,
+        "cat_type": "Birthday Cake",
+        "cake": [
+            {
+                "cake_id": 1,
+                "cake_title": "The Vanilla Cake",
+                "flavor": "vanilla",
+                "Description": "A classic Vanilla cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 300
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 600
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1200
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 2,
+                "cake_title": "The Chocolate Cake",
+                "flavor": "chocolate",
+                "Description": "A classic chocolate cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 300
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 700
+                    },
+                    {
+                        "weigth": "Two Kg",
+                        "cost": 1400
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 3,
+                "cake_title": "The Butterscotch Cake",
+                "flavor": "butterscotch",
+                "Description": "A classic Butterscotch cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 300
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 600
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1200
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 4,
+                "cake_title": "The Pineapple Cake",
+                "flavor": "pineapple",
+                "Description": "A classic Pineapple cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 300
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 550
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1100
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 5,
+                "cake_title": "The Strawberry Cake",
+                "flavor": "strawberry",
+                "Description": "A classic Strawberry cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 300
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 550
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1100
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            }
+        ]
+    },
+    {
+        "cat_id": 2,
+        "cat_type": "Anniversary Cake",
+        "cake": [
+            {
+                "cake_id": 1,
+                "cake_title": "The Vanilla Cake",
+                "flavor": "vanilla",
+                "Description": "A classic vanilla cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 400
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 800
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1600
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 2,
+                "cake_title": "The Chocolate Cake",
+                "flavor": "chocolate",
+                "Description": "A classic chocolate cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 450
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 900
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1800
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 3,
+                "cake_title": "The Butterscotch Cake",
+                "flavor": "butterscotch",
+                "Description": "A classic Butterscotch cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 500
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1000
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2000
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 4,
+                "cake_title": "The Pineapple Cake",
+                "flavor": "pineapple",
+                "Description": "A classic Pineapple cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 400
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 800
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1600
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 5,
+                "cake_title": "The Strawberry Cake",
+                "flavor": "strawberry",
+                "Description": "A classic Strawberry cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 400
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 800
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1600
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            }
+        ]
+    },
+    {
+        "cat_id": 3,
+        "cat_type": "Wedding Cake",
+        "cake": [
+            {
+                "cake_id": 1,
+                "cake_title": "The Vanilla Cake",
+                "flavor": "vanilla",
+                "Description": "A classic vanilla cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 500
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1000
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2000
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 2,
+                "cake_title": "The Chocolate Cake",
+                "flavor": "chocolate",
+                "Description": "A classic chocolate cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 550
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1100
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2200
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 3,
+                "cake_title": "The Butterscotch Cake",
+                "flavor": "butterscotch",
+                "Description": "A classic Butterscotch cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 550
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1100
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2200
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 4,
+                "cake_title": "The Pineapple Cake",
+                "flavor": "pineapple",
+                "Description": "A classic Pineapple cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 450
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 900
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1800
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 5,
+                "cake_title": "The Strawberry Cake",
+                "flavor": "strawberry",
+                "Description": "A classic Strawberry cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 450
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 900
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 1800
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            }
+        ]
+    },
+    {
+        "cat_id": 4,
+        "cat_type": "Premium Cake",
+        "cake": [
+            {
+                "cake_id": 1,
+                "cake_title": "The KitKat Cake",
+                "flavor": "chocolate",
+                "Description": "A classic Chocolaty Kit-Kat cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 600
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1200
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2400
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 2,
+                "cake_title": "The Chocolate Overload Cake",
+                "flavor": "chocolate",
+                "Description": "A classic Chocolate Overload cake",
+                "size": [
+                    {
+                        "weigth": "Half Kg",
+                        "cost": 700
+                    },
+                    {
+                        "weigth": "One Kg",
+                        "cost": 1400
+                    },
+                    {
+                        "weigth": "Two Kg",
+                        "cost": 2800
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 3,
+                "cake_title": "The Ferrero Rocher Cake",
+                "flavor": "chocolate",
+                "Description": "A classic Ferrero Rocher cake",
+                "size": [
+                    {
+                        "weigth": "Half Kg",
+                        "cost": 800
+                    },
+                    {
+                        "weigth": "One Kg",
+                        "cost": 1600
+                    },
+                    {
+                        "weigth": "Two Kg",
+                        "cost": 3200
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 4,
+                "cake_title": "The Chocolate Gems Cake",
+                "flavor": "Chocolate",
+                "Description": "A classic Chocolate Gems cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 600
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1200
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2400
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            },
+            {
+                "cake_id": 5,
+                "cake_title": "The Rasmalai Cake",
+                "flavor": "Rasmalai",
+                "Description": "A classic Rasmalai cake",
+                "size": [
+                    {
+                        "weight": "Half Kg",
+                        "cost": 600
+                    },
+                    {
+                        "weight": "One Kg",
+                        "cost": 1200
+                    },
+                    {
+                        "weight": "Two Kg",
+                        "cost": 2400
+                    }
+                ],
+                "rate": 4,
+                "cake_img": []
+            }
+        ]
+    }
+])
